@@ -1,0 +1,12 @@
+# Site settings
+name: shamanime's words
+title: "Words, codes and curses from a software developer."
+email: jefferson@shamani.me
+description: "Words, codes and curses from a software developer."
+baseurl: ""
+url: "http://shamani.me"
+username: "shamanime"
+
+# Build settings
+markdown: kramdown
+permalinks: pretty
