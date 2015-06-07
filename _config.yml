@@ -1,12 +1,17 @@
 # Site settings
-name: shamanime's words
-title: "Words, codes and curses from a software developer."
+title: "Jefferson 'shamanime' Venerando"
 email: jefferson@shamani.me
-description: "Words, codes and curses from a software developer."
+description: >
+  Words, codes and curses from a software developer.
 baseurl: ""
 url: "http://shamani.me"
-username: "shamanime"
+twitter_username: shamanime
+github_username:  shamanime
 
 # Build settings
 markdown: kramdown
-permalinks: pretty
+
+# Custom configuration
+timezone: America/Sao_Paulo
+permalink: /posts/:title/
+
