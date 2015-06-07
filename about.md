@@ -4,21 +4,19 @@ title: About
 permalink: /about/
 ---
 
-## Hello! My name is Jefferson Queiroz Venerando.
+My name is Jefferson Queiroz Venerando, also known as shamanime. I'm a software engineer living in Belo Horizonte, Brazil.
 
-I live in São José do Rio Preto, São Paulo, Brazil.
+I've attended the Fundação Educacional de Fernandópolis for a bachelor's degree in System of Information.
 
-I am a former founder of [Bras Sun], a development and digital marketing agency that had it's doors open in 2011. That's where I used to roam most part of my day taking care of software development and every other technical thing to do.
+Currently I spend some of my time at my own company, [Bras Sun][bs], crafting unique, beautiful & custom solutions in the form of software. I also roam at [Dito Internet][dito], a company specialized in customer retention.
 
-Now, I work at [Sisprev], building a software that is The Next Thing (tm) for Social Security Institutes.
+I've spoken in many events and am a proud member of the [NoSQL Summer][nsummer].
 
-I also speak in some events and am a proud member of the [NoSQL Summer][nsummer].
+In my day-to-day life, I work with Ruby on Rails, MongoDB and PostgreSQL, but I don't limit myself to those technologies. I like to solve my problems using the best tools for the job. And I give back something good to the community contributing to the various open source projects I use.
 
-In my day life, I work with Ruby on Rails, MongoDB and PostgreSQL, but I don't limit myself to those technologies. I like to solve my problems using the best tools for the job. And I give back something good to the community contributing to the various open source projects I use.
-
-I graduated in System of Information in the end of 2011 at the Fundação Educacional de Fernandópolis.
 
 And last but not least, I have a lovely wife - Taisa.
 
-[sisprev]: http://sisprev.net.br
+[bs]: http://brassun.com.br "Bras Sun"
+[dito]: http://dito.com.br "Dito Internet"
 [nsummer]: http://nosqlsummer.org/city/fernandopolis "NoSQL Summer"
