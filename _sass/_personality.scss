@@ -131,3 +131,11 @@ code { background-color: transparent; }
     text-align: center;
   }
 }
+
+header.post-header {
+  .post-meta {
+    float: none;
+    text-align: center;
+    margin: 0;
+  }
+}
