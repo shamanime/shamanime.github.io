@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quebrando paradigmas - minha palestra no MongoDB SP 2012"
+title: "Quebrando paradigmas - MongoDB SP 2012"
 date: 2012-07-13 13:09
 comments: true
 categories:
