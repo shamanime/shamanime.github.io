@@ -8,7 +8,7 @@ My name is Jefferson Queiroz Venerando, also known as shamanime. I'm a software 
 
 I've attended the Fundação Educacional de Fernandópolis for a bachelor's degree in System of Information.
 
-Currently I spend some of my time at my own company, [Bras Sun][bs], crafting unique, beautiful & custom solutions in the form of software. I also roam at [Dito Internet][dito], a company specialized in customer retention.
+Currently I spend some of my time at my own company - Bras Sun - crafting unique, beautiful & custom solutions in the form of software. I also roam at [Dito Internet][dito], a company specialized in customer retention.
 
 I've spoken in many events and am a proud member of the [NoSQL Summer][nsummer].
 
@@ -17,6 +17,5 @@ In my day-to-day life, I work with Ruby on Rails, MongoDB and PostgreSQL, but I 
 
 And last but not least, I have a lovely wife - Taisa.
 
-[bs]: http://brassun.com.br "Bras Sun"
-[dito]: http://dito.com.br "Dito Internet"
-[nsummer]: http://nosqlsummer.org/city/fernandopolis "NoSQL Summer"
+[dito]: http://dito.com.br "Dito Internet" target="_blank"
+[nsummer]: http://nosqlsummer.org/city/fernandopolis "NoSQL Summer" target="_blank"
